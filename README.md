@@ -1,4 +1,5 @@
 # InstagramDPDownload
+Download Instagram Display Picture by username. 
 
 ### Installation
 1. Clone this project.
